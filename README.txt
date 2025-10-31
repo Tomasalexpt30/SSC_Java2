@@ -1,5 +1,7 @@
 -+-+-+-+-+-++-+--+--+-++-++-++-++-++-++-++-++-+++-+-++-++-++-++-++-++-++-++-++-++-+-++-+++-++-+-++-++-++-++-+
 
+Grupo - Tomás Alexandre 73213, Nicolae Iachimovschi 73381
+
 Olá professor, aqui tem um ficheiro README que dá as insruções de como rodar o código.
 No nosso computador nós seguimos estes passos, esperemos que funcione no seu tambem!
 
