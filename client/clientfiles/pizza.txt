@@ -1,0 +1,9 @@
+Ola professor, este ficheiro serve como teste para testar se o programa funciona corretamente.
+
+A pizza caseira é uma das receitas mais apreciadas por quem gosta de cozinhar em casa. 
+Para preparar uma boa massa, mistura-se farinha de trigo, fermento biológico seco, sal, açúcar, água morna e azeite de oliva até formar uma massa homogénea e elástica. 
+Depois de descansar e crescer, a massa é aberta num disco e recebe uma generosa camada de molho de tomate. 
+Por cima, adiciona-se queijo mozzarella ralado, fiambre ou pepperoni, azeitonas e orégãos. 
+A pizza é levada ao forno quente até a borda ficar dourada e o queijo derreter completamente. 
+O aroma espalha-se pela cozinha, criando aquele ambiente típico de fim de semana em família. 
+Pode-se ainda variar a cobertura com legumes, cogumelos, frango ou o clássico manjericão fresco, resultando numa refeição simples, saborosa e que agrada a todos.
